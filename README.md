@@ -5,7 +5,7 @@
 1. [Project motivation](#Project-motivation)
 1. [File descriptions](#File-descriptions)
 1. [Results](#Results)
-1. [Licensing, authors, acknowledgements](#Licensing,-authors,-acknowledgements
+1. [Licensing, authors, acknowledgements](#Licensing,-authors,-acknowledgements)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
