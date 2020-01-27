@@ -42,7 +42,7 @@ For Q1 I filtered the dataset for responses where the survey respondent was from
 
 
 ## Results
-The main findings of the code are also discussed in the post available here: 
+The main findings of the code are also discussed in the post available here: [blog](https://myds.design.blog/2020/01/27/what-affects-salary-working-hours-and-job-satisfaction-for-developers/)
 
 
 ## Licensing, authors, acknowledgements
